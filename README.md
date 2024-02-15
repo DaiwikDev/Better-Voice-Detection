@@ -1,6 +1,6 @@
-# A Hackers AI Voice Assistant
+# AI Voice Reco System
 
-### I am not mantaining this repo anymore. If you want to take over, please shoot me a message.
+### Raspberry pi support is under development {Use under own knowledge}
 
 Build your own voice AI voice assistant with PyTorch.
 
