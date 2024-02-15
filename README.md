@@ -1,6 +1,6 @@
 # AI Voice Reco System
 
-### Raspberry pi support is under development {Use under own knowledge}
+### Raspberry pi support is under development
 
 Build your own voice AI voice assistant with PyTorch.
 
