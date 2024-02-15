@@ -2,10 +2,8 @@
 
 ### I am not mantaining this repo anymore. If you want to take over, please shoot me a message.
 
-Build your own voice ai. This repo is for my [YouTube video series](https://www.youtube.com/playlist?list=PL5rWfvZIL-NpFXM9nFr15RmEEh4F4ePZW) on building an AI voice assistant with PyTorch.
+Build your own voice AI voice assistant with PyTorch.
 
-## Looking for contributors!
-Looking for contributors to help build out the assistant. There is still alot of work to do. This would be a good oppurtunity to learn Machine Learning and how to Engineer an entire ML system from the ground up. If you're interested join the [Discord Server](https://discord.gg/9wSTT4F)
 
 TODO:
 - [x] wake word model and engine
@@ -42,7 +40,7 @@ If you are running on a cuda enabled machine
 `docker build -f Dockerfile -t voiceassistant .`
 
 ## Wake word
-[Youtube Video For WakeWord](https://www.youtube.com/watch?v=ob0p7G2QoHA&list=PL5rWfvZIL-NpFXM9nFr15RmEEh4F4ePZW)
+TODO
 
 ### scripts
 For more details make sure to visit these files to look at script arguments and description
@@ -96,7 +94,6 @@ For more details make sure to visit these files to look at script arguments and 
 
 
 ## Speech Recognition
-[YouTube Video for Speech Recognition](https://www.youtube.com/watch?v=YereI6Gn3bM&list=PL5rWfvZIL-NpFXM9nFr15RmEEh4F4ePZW&index=2)
 
 ### scripts
 For more details make sure to visit these files to look at script arguments and description
